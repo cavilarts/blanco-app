@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-blancoapp-dev-162916-authRole",
+      "UnauthRoleArn": "arn:aws:iam::601952306908:role/amplify-blancoapp-dev-162916-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::601952306908:role/amplify-blancoapp-dev-162916-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-blancoapp-dev-162916-deployment",
+      "UnauthRoleName": "amplify-blancoapp-dev-162916-unauthRole",
+      "StackName": "amplify-blancoapp-dev-162916",
+      "StackId": "arn:aws:cloudformation:us-east-2:601952306908:stack/amplify-blancoapp-dev-162916/316ad7b0-f634-11eb-9422-065c67285aec",
+      "AmplifyAppId": "d25hxuxj9tcz16"
+    }
+  }
+}
