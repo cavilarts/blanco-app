@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "blancoappapi",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authblancoappd4f8a0aa",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

@@ -10,6 +10,26 @@
       "StackName": "amplify-blancoapp-dev-162916",
       "StackId": "arn:aws:cloudformation:us-east-2:601952306908:stack/amplify-blancoapp-dev-162916/316ad7b0-f634-11eb-9422-065c67285aec",
       "AmplifyAppId": "d25hxuxj9tcz16"
+    },
+    "categories": {
+      "function": {
+        "blancoappd4f8a0aaDefineAuthChallenge": {
+          "deploymentBucketName": "amplify-blancoapp-dev-162916-deployment",
+          "s3Key": "amplify-builds/blancoappd4f8a0aaDefineAuthChallenge-4f2b304d486d70526b73-build.zip"
+        },
+        "blancoappd4f8a0aaCreateAuthChallenge": {
+          "deploymentBucketName": "amplify-blancoapp-dev-162916-deployment",
+          "s3Key": "amplify-builds/blancoappd4f8a0aaCreateAuthChallenge-75355677453179375853-build.zip"
+        },
+        "blancoappd4f8a0aaVerifyAuthChallengeResponse": {
+          "RECAPTCHASECRET": "",
+          "deploymentBucketName": "amplify-blancoapp-dev-162916-deployment",
+          "s3Key": "amplify-builds/blancoappd4f8a0aaVerifyAuthChallengeResponse-634b7378785a4a62544a-build.zip"
+        }
+      },
+      "auth": {
+        "blancoappd4f8a0aa": {}
+      }
     }
   }
 }
